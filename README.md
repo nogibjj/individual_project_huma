@@ -1,7 +1,7 @@
 [![Install](https://github.com/nogibjj/individual_project_huma/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/individual_project_huma/actions/workflows/install.yml)
 [![Format](https://github.com/nogibjj/individual_project_huma/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/individual_project_huma/actions/workflows/format.yml)
 [![Lint](https://github.com/nogibjj/individual_project_huma/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/individual_project_huma/actions/workflows/lint.yml)
-[![Test](https://github.com/nogibjj/individual_project_huma/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/individual_project_huma/actions/workflows/test.yml)
+[![Test](https://github.com/nogibjj/individual_project_huma/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/nogibjj/individual_project_huma/actions/workflows/test.yml)
 
 # Individual Project 1
 This is the fourth Assignment for Data Engineering.
